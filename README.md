@@ -5,30 +5,20 @@
 
 **Instructions:** Use the word bank to match the vocabulary words with the appropriate number in the above code segment. 
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
+1.Iteration
+2. Casting
+3. Boolean Operator
+4. Selection
+5. Comparison Operator
+6. Annotation
+7. Assignment Operator
+8. List
+9. Operator (Arithmetic)
+10. Variable
+11. String
+12. String Concatenation
 
 **Word Bank**
-- variable
-- boolean operator
-- string
-- comparison operator
-- casting
-- string concation
-- assignment operator
-- annotation (comment)
-- list
-- arithmetic operator
 - selection
 - iteration
 
